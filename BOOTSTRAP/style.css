@@ -1,0 +1,9 @@
+.card-body:hover {
+    background-color: #0dcaf0 ;
+    transition:0,5s,ease;
+
+    position: center;
+    
+    
+}
+
